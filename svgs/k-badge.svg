@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>446F4FFC-8F8C-48F5-80C7-7590009C5E69</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.184314 0 0 0 0 0.435294 0 0 0 0 0.478431 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-77.000000, -2938.000000)">
+            <g id="K-Badge" transform="translate(77.000000, 2938.000000)">
+                <path d="M21.7157288,11.7157288 L58.2842712,11.7157288 C63.8071187,11.7157288 68.2842712,16.1928813 68.2842712,21.7157288 L68.2842712,58.2842712 C68.2842712,63.8071187 63.8071187,68.2842712 58.2842712,68.2842712 L21.7157288,68.2842712 C16.1928813,68.2842712 11.7157288,63.8071187 11.7157288,58.2842712 L11.7157288,21.7157288 C11.7157288,16.1928813 16.1928813,11.7157288 21.7157288,11.7157288 Z" id="Rectangle-2-Copy-3" fill="#FFFFFF" transform="translate(40.000000, 40.000000) rotate(45.000000) translate(-40.000000, -40.000000) "></path>
+                <g filter="url(#filter-1)" id="K">
+                    <g transform="translate(30.000000, 25.000000)">
+                        <path d="M4.11780247,0 L4.11780247,16.3270196 L11.363679,8.24352941 L16.5366667,8.24352941 L7.87925926,17.527451 L17.7252099,27.972 L12.4720988,27.972 L4.11780247,18.8481176 L4.11780247,27.972 L0,27.972 L0,0 L4.11780247,0 Z M21.8933136,2.2821098 L18.4463753,5.97865882 L13.4067457,5.97865882 L16.7200543,2.2821098 L21.8933136,2.2821098 Z" id="Fill-4" fill="#FFC845"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

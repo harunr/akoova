@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="16px" viewBox="0 0 26 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>470CB65C-E162-4549-9E38-69549891321B</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.184314 0 0 0 0 0.435294 0 0 0 0 0.478431 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="K-Working" transform="translate(-707.000000, -1359.000000)">
+            <g id="arrow" transform="translate(0.000000, 751.000000)" filter="url(#filter-1)">
+                <g transform="translate(707.000000, 608.000000)">
+                    <polygon id="Path" fill="#000000" fill-rule="nonzero" points="22.4323897 -1.13686838e-13 12.7155916 9.89346718 2.99879347 -1.13686838e-13 0 3.05321583 12.7155916 16 25.4311832 3.05321583"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+.magnetic {
+    float: left;
+    margin: 0;
+    padding: 23px 25px;
+    display: inline-block;
+    border-radius: 50%;
+    width: 100%;
+}
+
+#magnet-button {
+    display: inline-block;
+}
+
+.my-button {
+    width: 75px;
+}
